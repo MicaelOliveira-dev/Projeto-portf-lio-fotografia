@@ -1,0 +1,26 @@
+@media only screen and (max-width:787px){
+    .menu {
+        height:170px;
+    }
+    .logo img {
+        width:60px;
+        height:60px;
+        margin-top:8px;
+        position:relative;
+        right:-20px;
+    }
+    .logo p {
+        text-align:center;
+        position:relative;
+        top:-98px;
+    }
+    .header_menu ul {
+        width:400px;
+        position:relative;
+        right:110px;
+        bottom:120px;
+    }
+    .header_menu ul li {
+        font-size:14px;
+    }
+}
