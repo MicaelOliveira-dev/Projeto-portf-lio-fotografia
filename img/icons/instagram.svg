@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_7" data-name="Retângulo 7" width="40" height="40" transform="translate(534 3573)" fill="#e09145" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="instagram" transform="translate(-534 -3573)" clip-path="url(#clip-path)">
+    <g id="instagram-2" data-name="instagram" transform="translate(534 3573)">
+      <path id="Caminho_1" data-name="Caminho 1" d="M29.172,0H10.828A10.84,10.84,0,0,0,0,10.828V29.173A10.84,10.84,0,0,0,10.828,40H29.173A10.84,10.84,0,0,0,40,29.173V10.828A10.84,10.84,0,0,0,29.172,0Zm8.483,29.173a8.492,8.492,0,0,1-8.483,8.482H10.828a8.492,8.492,0,0,1-8.483-8.482V10.828a8.492,8.492,0,0,1,8.483-8.483H29.173a8.492,8.492,0,0,1,8.482,8.483Zm0,0" transform="translate(0 0)" fill="#e09145"/>
+      <path id="Caminho_2" data-name="Caminho 2" d="M22.266,11.329A10.937,10.937,0,1,0,33.2,22.266,10.949,10.949,0,0,0,22.266,11.329Zm0,19.529a8.592,8.592,0,1,1,8.592-8.592A8.6,8.6,0,0,1,22.266,30.858Zm0,0" transform="translate(-2.266 -2.266)" fill="#e09145"/>
+      <path id="Caminho_3" data-name="Caminho 3" d="M38.19,6.473A3.232,3.232,0,1,0,41.423,9.7,3.235,3.235,0,0,0,38.19,6.473Zm0,4.119a.887.887,0,1,1,.887-.887A.888.888,0,0,1,38.19,10.592Zm0,0" transform="translate(-6.992 -1.295)" fill="#e09145"/>
+    </g>
+  </g>
+</svg>
