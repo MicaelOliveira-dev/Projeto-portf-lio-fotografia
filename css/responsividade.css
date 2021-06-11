@@ -1,6 +1,8 @@
-@media only screen and (max-width:787px){
+/* Tablet Responsive */
+@media only screen and (max-width:787px) and (max-width:1024px){
+    /* Header Menu */
     .menu {
-        height:170px;
+        height:140px;
     }
     .logo img {
         width:60px;
@@ -22,5 +24,90 @@
     }
     .header_menu ul li {
         font-size:14px;
+    }
+    /* Section Banner */
+    .frase_banner h2 {
+        font-size:22px;
+    }
+    .frase_banner h3 {
+        font-size:18px;
+        margin:0 0 15px 0;
+    }
+    .frase_estrutura img {
+        position:absolute;
+        left:-12px;
+    }
+    .btn-call {
+        left:0px;
+    }
+}
+/* Tablet Responsive */
+
+/* Smartphone Responsive */
+@media only screen and (max-width:787px) {
+    /* Section Banner */
+    .frase_banner h1 {
+        font-size:48px;
+    }
+    .frase_banner h2 {
+        font-size:18px;
+    }
+    .frase_banner h3 {
+        font-size:14px;
+        margin:0 0 15px 0;
+    }
+    .frase_banner cite{
+        font-size:22px;
+    }
+    .frase_estrutura img {
+        position:absolute;
+        left:-16px;
+    }
+}
+@media only screen and (max-width:469px) {
+    /* Section Banner */
+    .frase_estrutura {
+        margin-left:-55px;
+    }
+}
+
+@media only screen and (max-width:415px) /*pixel2, pixel2Xl, iphone 6/7/8 Plus */ {
+    /* Section Banner */
+    .frase_estrutura {
+        margin-left:-30px;
+    }
+}
+@media only screen and (max-width:375px) /* Iphone6,7,8 / iphone X */ {
+    /* Section Banner */
+    .frase_estrutura {
+        margin-left:-45px;
+    }
+}
+@media only screen and (max-width:360px) /*Moto G4 / Galaxy S5 / */ {
+    /* Section Banner */
+    .frase_estrutura {
+        margin-left:-55px;
+    }
+}
+@media only screen and (max-width:320px) /* Iphone5/SE */ {
+    /* Section Banner */
+    .frase_estrutura {
+        margin-left:-75px;
+    }
+}
+@media only screen and (max-width:280px) /* Galaxy Fold */ {
+    /* Header Menu */
+    .header_menu ul {
+        width:400px;
+        position:relative;
+        right:130px;
+        bottom:120px;
+    }
+    .header_menu ul li {
+        font-size:12px;
+    }
+    /* Section Banner */
+    .frase_estrutura {
+        margin-left:-95px;
     }
 }

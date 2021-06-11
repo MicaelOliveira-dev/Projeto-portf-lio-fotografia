@@ -1,3 +1,7 @@
+html, body {
+    overflow:hidden;
+}
+/* Start Menu Header */
 .menu {
     width:100%;
     height:100px;
@@ -50,3 +54,74 @@
     transition:ease 0.5s;
     color:#FCD9B8;
 }
+/* End Menu Header */
+
+/* Start Section Banner */
+.banner {
+    background:url(../img/bg-home.jpg) no-repeat center;
+    background-size:cover;
+    width:100%;
+    height:518px;
+    margin-top:90px;
+    padding:90px;
+}
+.frase_estrutura{
+    text-align:center;
+}
+.frase_banner {
+    margin-top:40px;
+}
+.frase_banner h1 {
+    font-size:58px;
+    font-family:Allura;
+    line-height:72px;
+    color:#fff;
+    margin:0 0 4px 0;    
+}
+.frase_banner h2 {
+    font-size:32px;
+    font-family:Poppins;
+    line-height:32px;
+    text-transform:uppercase;
+    color:#fff;
+    margin:0 0 4px 0; 
+}
+.frase_banner h3 {
+    font-size:22px;
+    font-family:Poppins;
+    line-height:33px;
+    letter-spacing:3px;
+    text-transform:uppercase;
+    color:#fff;
+    margin:0 0 22px 0;
+}
+.frase_banner cite {
+    font-size:32px;
+    font-family:Allura;
+    line-height:33px;
+    letter-spacing:3px;
+    color:#fff;
+}
+.btn-call {    
+    background:#292C35;
+    color:#E09145;
+    font-size:18px;
+    font-family:Poppins;
+    border-radius:30px;
+    padding:8px 25px;
+    position: relative;
+    top:37px;
+    right:160px;
+}
+.btn-call:hover {
+    color:#000;
+    font-weight:600;
+    background:#FCD9B8;
+    transition:ease 0.5s;
+}
+.frase_estrutura img {
+    position:relative;
+    bottom:34px;
+    left:77px;
+}
+/* End Section Banner */
