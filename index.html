@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,7 +9,9 @@
 
     <!--Google Fonts Start-->
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Allura&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,300&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Allura&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,300&display=swap"
+        rel="stylesheet">
     <!--Google Fonts End-->
 
     <!--Css Start-->
@@ -20,29 +23,38 @@
     <!--Css End-->
 
 </head>
+
 <body>
 
     <!--Start Menu-->
-    <header class="menu"> 
-        <nav class="container header_menu"> 
-            <div class="logo"> 
-                <a href="">               
-                    <img class="grid-4" src="img/icons/logo.svg" alt="Logo">               
+    <header class="menu">
+        <nav class="container header_menu">
+            <div class="logo">
+                <a href="#banner">
+                    <img class="grid-4" src="img/icons/logo.svg" alt="Logo">
                     <p class="grid-4">Matias Silva</p>
-                </a>                   
-            </div>                        
-            <ul class="grid-10">                
-               <a href=""><li class="active">Home</li></a> 
-                <a href=""><li>Sobre</li></a> 
-                <a href=""><li>Portfólio</li></a> 
-                <a href=""><li>Contato</li></a> 
-            </ul>            
+                </a>
+            </div>
+            <ul class="grid-10">
+                <a href="#banner">
+                    <li class="active">Home</li>
+                </a>
+                <a href="#Sobre">
+                    <li>Sobre</li>
+                </a>
+                <a href="">
+                    <li>Portfólio</li>
+                </a>
+                <a href="">
+                    <li>Contato</li>
+                </a>
+            </ul>
         </nav>
     </header>
     <!--End Menu-->
 
     <!--Start Section Banner-->
-    <section class="banner">
+    <section class="banner" id="banner">
         <div class="container frase_estrutura">
             <blockquote class="frase_banner">
                 <h1>Fotografia é</h1>
@@ -51,10 +63,34 @@
                 <cite>Ken Rockwell</cite>
             </blockquote>
             <img src="img/separadores.svg" alt="separadores">
-            <a href="" class="btn-call">Saiba Mais</a>            
+            <a href="" class="btn-call">Saiba Mais</a>
         </div>
     </section>
     <!--End Section Banner-->
 
+    <!--Start Section About-->
+    <section class="container" id="Sobre">        
+        <h1 class="subtitle">Sobre</h1>
+        <div class="about_estrutura">
+            <img class="grid-8" src="img/foto_sobre.jpg" alt="sobre">
+            <div class="about">
+                <h1>Sobre.</h1>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
+                    and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+                    leap into electronic typesetting, remaining essentially
+                    unchanged.
+                    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+                    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem
+                    Ipsum.</p>
+            </div>
+        </div>
+    </section>
+    <!--End Section About-->
+
+    
+    
+
 </body>
+
 </html>

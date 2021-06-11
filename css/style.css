@@ -1,5 +1,7 @@
 html, body {
-    overflow:hidden;
+    overflow:auto;
+    height:100%;
+    scroll-behavior:smooth;
 }
 /* Start Menu Header */
 .menu {
@@ -8,6 +10,7 @@ html, body {
     background:#000;
     position:fixed;
     top:0;
+    z-index:10;
 }
 
 .logo img{
@@ -125,3 +128,57 @@ html, body {
     left:77px;
 }
 /* End Section Banner */
+
+/* Start Section about */
+.about_estrutura {
+    margin-top:90px;
+}
+.subtitle {
+    margin-top:70px;
+    text-align:center;
+    font-size:36px;
+    font-weight:600;
+    line-height:33px;
+    font-family:Poppins;
+    color:#E09145;
+}
+.subtitle:after {
+    content:"";
+    width:102px;
+    height:3px;
+    display: block;
+    margin:0 auto;
+    background:#000;
+    margin-top:20px;
+}
+.about {
+    width:540px;
+    height:629px;
+    background:#fff;
+    position:relative;
+    left:400px;
+    top:60px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.16);    
+}
+.about h1 {
+    position:absolute;
+    bottom:500px;   
+    margin-left:80px;
+    font-size:36px;
+    font-family:Poppins;
+    font-weight:bold;
+    line-height:33px;
+    text-transform:uppercase;
+    color:#292C35;
+}
+.about p {
+    position:absolute;
+    top:160px;
+    padding-left:80px; 
+    padding-right:50px; 
+    font-family:Poppins;
+    font-size:16px;
+    text-align:justify;
+    line-height:33px;
+}
+/* End Section about */
