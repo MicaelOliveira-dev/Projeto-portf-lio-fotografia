@@ -89,6 +89,15 @@
         float:right;
         margin-top:-536px;
     }
+    /* Contato */
+    .form h1 {
+        margin-right:300px;
+        position:relative;
+        left:150px;
+    }
+    .form button {
+        margin-left:280px;
+    }
 }
 /* Tablet Responsive */
 
@@ -166,6 +175,25 @@
         position:relative;
         top:250px;
         left:55px;
+    }
+    /* COntato */
+    .form {
+        height:680px;
+    }
+    .form input{
+        margin-bottom:60px;
+    }
+    .form h1 {
+        font-size:23px;
+        margin-right:0;
+        margin-left:-290px;
+    }
+    .form textarea {
+        margin-top:10px;
+    }
+    .form button {
+        margin-top:40px;
+        margin-left:50px
     }
 }
 @media only screen and (max-width:469px) {
