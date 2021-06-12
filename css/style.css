@@ -182,3 +182,139 @@ html, body {
     line-height:33px;
 }
 /* End Section about */
+/* Start Section portfólio */
+.estrutura {
+    background:#000;
+    height:797px;
+    margin-top:70px;
+}
+.subtitle_port {
+    margin-top:70px;
+    text-align:center;
+    font-size:36px;
+    font-weight:600;
+    line-height:33px;
+    font-family:Poppins;
+    color:#E09145;
+}
+.subtitle_port:after {
+    content:"";
+    width:102px;
+    height:3px;
+    display: block;
+    margin:0 auto;
+    background:#fff;
+    margin-top:20px;
+}
+.cards {
+    margin-top:80px;
+}
+.card {
+    margin-right:30px;
+}
+.card h1 {
+    color:#fff;
+    font-size:36px;
+    font-family:Poppins;
+    line-height:33px;
+    letter-spacing:.1em;
+    position:relative;
+    bottom:320px;
+    padding-left:80px
+}
+.card h1:after {
+    content:"";
+    width:60px;
+    height:3px;
+    display: block;
+    margin-left:40px;
+    background:#fff;
+    margin-top:12px;
+}
+.card h1:before {
+    content:"";
+    width:60px;
+    height:3px;
+    display: block;
+    margin-left:40px;
+    background:#fff;
+    margin-bottom:12px;
+}
+.card h1:hover,
+.card img:hover {
+    color:#E09145;
+    filter:brightness(90%);
+    transition:ease 0.5s;
+}
+.card-2 {
+    margin-right:35px;
+    margin-left:15px;
+}
+.card-2 h1 {
+    color:#fff;
+    font-size:36px;
+    font-family:Poppins;
+    line-height:33px;
+    letter-spacing:.1em;
+    position:relative;
+    bottom:320px;
+    padding-left:80px
+}
+.card-2 h1:after {
+    content:"";
+    width:60px;
+    height:3px;
+    display: block;
+    margin-left:55px;
+    background:#fff;
+    margin-top:12px;
+}
+.card-2 h1:before {
+    content:"";
+    width:60px;
+    height:3px;
+    display: block;
+    margin-left:55px;
+    background:#fff;
+    margin-bottom:12px;
+}
+.card-2 h1:hover,
+.card-2 img:hover {
+    color:#E09145;
+    filter:brightness(90%);
+    transition:ease 0.5s;
+}
+.card-3 h1 {
+    color:#fff;
+    font-size:36px;
+    font-family:Poppins;
+    line-height:33px;
+    letter-spacing:.1em;
+    position:relative;
+    bottom:320px;
+    padding-left:80px
+}
+.card-3 h1:after {
+    content:"";
+    width:60px;
+    height:3px;
+    display: block;
+    margin-left:55px;
+    background:#fff;
+    margin-top:12px;
+}
+.card-3 h1:before {
+    content:"";
+    width:60px;
+    height:3px;
+    display: block;
+    margin-left:55px;
+    background:#fff;
+    margin-bottom:12px;
+}
+.card-3 h1:hover,
+.card-3 img:hover {
+    color:#E09145;
+    filter:brightness(90%);
+    transition:ease 0.5s;
+}
