@@ -3,7 +3,6 @@ Projeto de Estudo ( Portfólio para Fotógrafo )
 #### Linguagens Utilizadas
 ##### - HTML5
 ##### - CSS3 
-##### - JS
 
 - Link do site >> https://micaeloliveira-dev.github.io/Projeto-portf-lio-fotografia/
 
