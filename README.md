@@ -11,7 +11,7 @@ Meu nome é Micael, sou apaixonado por design e frontend. Tenho como mentor o An
 ### Design:
 - Figma
 
-## Onde me Encontrar
+## Onde me Encontrar 📍
 - Linkedin: https://www.linkedin.com/in/micaeloliveira-ms/
 - Instagram: https://www.instagram.com/micael37oliveira_/
 
