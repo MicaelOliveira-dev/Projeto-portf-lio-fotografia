@@ -5,7 +5,7 @@
 ## Link do Projeto
 - https://micaeloliveira-dev.github.io/Projeto-portf-lio-fotografia/
 
-## Objetivo Principal :dart:
+## Objetivo :dart:
 
 <p align="justify">
   Densenvolver um site para portfólio de fotógrafos, onde ele possa mostrar um pouco da sua história e seus melhores trabalhos </br>
