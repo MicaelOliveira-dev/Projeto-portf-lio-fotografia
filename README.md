@@ -38,9 +38,6 @@ git clone https://github.com/MicaelOliveira-dev/Projeto-portf-lio-fotografia.git
 ### Design:
 - Figma
 
-## Quem Sou eu 🧔🏻 
-Meu nome é Micael Oliveira, sou um autodidata fascinado por Desafios, Design e Frontend. Atualmente estou estudando  HTML5, CSS3 e Design UI e tenho como objetivo  me tornar um Desenvolvedor Frontend e Designer UI e UX.
-
 ## Onde me Encontrar 📌
 - Linkedin: https://www.linkedin.com/in/micaeloliveira-ms/
 - E-mail: MicaelDev@hotmail.com
