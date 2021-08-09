@@ -12,7 +12,7 @@
 </p>
 
 ## Observações 🔭
-<p>Projeto Realizado para aprimorar conceitos de HTML5 e CSS3 e Design com figma</p>
+<p>Projeto Realizado para aprimorar conceitos de HTML5 e CSS3 e Design</p>
 <p>Nome na logo Matias Silva é fictício</p>
 
 ## Linguagens e Softwares 🚀 
