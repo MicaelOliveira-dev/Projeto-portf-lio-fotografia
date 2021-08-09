@@ -1,9 +1,11 @@
 ![121906968-ff7d5f80-cd01-11eb-9d0d-4270be9250d3](https://user-images.githubusercontent.com/72334759/124166594-6c6e5480-da79-11eb-9825-52ae337da6db.png)
+</br>
+</br>
+![_C__Users_Micael%20Oliveira_Desktop_projetos_Projeto-Portfolio-Fotografia_web_portfolio_nature html (1)](https://user-images.githubusercontent.com/72334759/128788538-ff12acfb-c27b-43d4-bb56-58261c078190.png)
+
 
 > Status do Projeto: :heavy_check_mark: :warning: (concluido)
 
-## Link do Projeto
-- https://micaeloliveira-dev.github.io/Projeto-portf-lio-fotografia/
 
 ## Objetivo :dart:
 
